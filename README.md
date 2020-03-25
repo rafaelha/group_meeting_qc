@@ -17,3 +17,7 @@ Fields](https://pennylane-sf.readthedocs.io/en/latest/installing.html).
 
 All set to go! Open
 [group_meeting.ipynb](https://github.com/rafaelha/group_meeting_qc/blob/master/group_meeting.ipynb)
+
+NOTE: Opening the notebook within github results in a bunch of formatting
+issues. For best experience, clone repository and open the notebook with
+jupyter.
